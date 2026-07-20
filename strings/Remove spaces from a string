@@ -1,0 +1,7 @@
+# Remove spaces from a string
+
+str=input("enter the string:")
+ans=str.strip()
+print(ans)
+
+
