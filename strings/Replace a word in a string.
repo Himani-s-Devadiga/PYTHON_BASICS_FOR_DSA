@@ -1,0 +1,7 @@
+# Replace a word in a string.
+
+str=input("enter the string:")
+ans=str.replace('hima','bhargavi')
+print(ans)
+
+
