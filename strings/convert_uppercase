@@ -1,0 +1,5 @@
+Convert a string to uppercase.
+
+str=input("enter the string:")
+sol=str.upper()
+print("The uppercase value is",sol)  
