@@ -1,0 +1,9 @@
+# Capitalize Each Word
+
+text=input("enter a string")
+capitalise_text=text.title()
+print(capitalise_text)
+
+
+
+
