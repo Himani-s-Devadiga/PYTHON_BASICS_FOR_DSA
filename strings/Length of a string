@@ -1,0 +1,4 @@
+# Length of a string
+
+text = input("Enter the string: ")
+print(f"The length of '{text}' is {len(text)}")
