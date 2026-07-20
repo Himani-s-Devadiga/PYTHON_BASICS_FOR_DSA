@@ -1,0 +1,6 @@
+# Palindrome check
+
+if text == reverse_text:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
