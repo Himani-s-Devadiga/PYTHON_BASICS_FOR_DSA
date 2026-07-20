@@ -1,0 +1,8 @@
+# Print vowels
+
+text = input("Enter the value: ")
+vowels = ['a', 'e', 'i', 'o', 'u']
+
+for i in text:
+    if i in vowels:
+        print(i, "is a vowel")
