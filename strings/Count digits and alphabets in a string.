@@ -1,0 +1,18 @@
+Count digits and alphabets in a string.
+
+str=input("enter the string:")
+lis1=[]
+lis2=[]
+for i in str:
+    if i.isdigit():
+       lis1.append(i)
+       print("The number of digits is",len(lis1))
+    elif i.isalpha():
+       lis2.append(i)
+       print("The number of digits is",len(lis2))
+
+print("Digits are:", lis1)
+print("Number of digits:", len(lis1))
+
+print("Letters are:", lis2)
+print("Number of letters:", len(lis2))       
