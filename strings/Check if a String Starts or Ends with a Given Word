@@ -1,0 +1,9 @@
+Check if a String Starts or Ends with a Given Word
+
+text=input("enter a string")
+if text.startswith('I love') and text.endswith('computer'):
+    print("The text is correct")
+else:
+    print("The text is incorrect")    
+
+
