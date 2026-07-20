@@ -1,0 +1,16 @@
+# Find the First Non-Repeating Character
+
+text=input("enter a string")
+for i in text:
+    if text.count(i)==1:
+        print("First non-repeatable value is",i)
+        break
+else:
+        print("no non-repeatable value found")        
+
+
+
+
+
+
+
