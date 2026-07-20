@@ -1,0 +1,8 @@
+# Print consonants
+
+text = input("Enter the value: ")
+vowels = ['a', 'e', 'i', 'o', 'u']
+
+for i in text:
+    if i not in vowels:
+        print(i, "is not a vowel but a consonant")
