@@ -1,0 +1,9 @@
+# Find smallest element
+
+smallest = l[0]
+
+for i in l:
+    if i < smallest:
+        smallest = i
+
+print("Smallest element:", smallest)
