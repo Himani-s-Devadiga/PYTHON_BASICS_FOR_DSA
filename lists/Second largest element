@@ -1,0 +1,17 @@
+ # Second largest element
+
+l = [10,20,50,40,30]
+
+largest = l[0]
+second = l[0]
+
+for i in l:
+
+    if i > largest:
+        second = largest
+        largest = i
+
+    elif i > second and i != largest:
+        second = i
+
+print("Second largest:", second)
