@@ -1,0 +1,11 @@
+# Divisible by 5 and 11
+
+num=int(input("enter the num"))
+if num%5==0:
+   print("Heyy!!the number is divisible by 5")
+elif num%11==0:
+   print("Heyy!! the number is divisble by 11")
+elif num%5==0 and num%11==0:
+   print("I feel u r my special one , a prime number cuz u r divisible by both")
+else:
+   print("You cannot be evaluated")   
