@@ -1,0 +1,14 @@
+# Merge two lists
+
+l1 = [25,10,5]
+l2 = [40,15]
+
+merged = []
+
+for i in l1:
+    merged.append(i)
+
+for i in l2:
+    merged.append(i)
+
+print("Merged list:", merged)
