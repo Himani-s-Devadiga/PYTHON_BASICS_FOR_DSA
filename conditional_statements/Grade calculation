@@ -1,0 +1,11 @@
+# Grade calculation
+
+marks=int(input("enter the number:"))
+if marks<=95 and marks>=85:
+   print("You have got a A+ and got a distinction")
+elif marks>60 and marks<=84:
+   print("You havr got a B and u can improve more")
+elif marks<=59 and marks>=36:
+   print("You have got C and u can try harder")
+else:
+    print("Heyy,u failed...try again next time")         
