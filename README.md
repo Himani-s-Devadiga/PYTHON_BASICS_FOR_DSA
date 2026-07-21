@@ -2,18 +2,20 @@
 
 This repository contains Python programs covering fundamental programming concepts required for Data Structures and Algorithms (DSA).
 
-## Topics Covered: 
+# 📚 Topics Covered
 
-✅ Basic python
-✅ Operators
-✅ Conditional Statements
-✅ lists
-* Loops
-* Functions
-* Tuples
-* Dictionaries and Sets
-* Basic Problem Solving
-* DSA Practice Problems
+- ✅ Basic Python
+- ✅ Operators
+- ✅ Conditional Statements
+- ✅ Strings
+- ✅ Lists
+- 🔄 Loops *(Coming Soon)*
+- 🔄 Functions *(Coming Soon)*
+- 🔄 Tuples *(Coming Soon)*
+- 🔄 Dictionaries *(Coming Soon)*
+- 🔄 Sets *(Coming Soon)*
+- 🔄 Basic Problem Solving *(Coming Soon)*
+- 🔄 DSA Practice Problems *(Coming Soon)*
 
 * ## 🛠 Technologies Used
 
