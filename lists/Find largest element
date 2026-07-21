@@ -1,0 +1,11 @@
+# Find largest element
+
+l = [25,10,5,40,15]
+
+largest = l[0]
+
+for i in l:
+    if i > largest:
+        largest = i
+
+print("Largest element:", largest)
