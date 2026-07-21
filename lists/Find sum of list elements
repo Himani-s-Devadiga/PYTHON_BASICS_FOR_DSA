@@ -1,0 +1,8 @@
+# Find sum of list elements
+
+total = 0
+
+for i in l:
+    total = total + i
+
+print("Sum:", total)
