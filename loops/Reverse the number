@@ -9,6 +9,11 @@ while n>0:
     n=n//10
  
 print("The reverse of the given digit is",rev)    
+
+# Note:
+-> why use *10 because to shift the place to the left place
+-> why use // because to remove the number and add later for the solution
+
     
     
     
