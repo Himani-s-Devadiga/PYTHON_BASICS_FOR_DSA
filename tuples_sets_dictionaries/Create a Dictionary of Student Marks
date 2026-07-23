@@ -1,0 +1,9 @@
+# Create a Dictionary of Student Marks
+
+student = {
+    "Himani": 90,
+    "Rahul": 85,
+    "Anu": 95
+}
+
+print(student)
