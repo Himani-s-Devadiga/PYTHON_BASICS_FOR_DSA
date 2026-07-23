@@ -1,0 +1,20 @@
+# Count the Frequency of Words Using a Dictionary
+
+
+text = "I have mangoes and apples and bananas"
+
+words = text.split()
+
+freq = {}
+
+for i in words:
+
+    if i in freq:
+
+        freq[i] = freq[i] + 1
+
+    else:
+
+        freq[i] = 1
+
+print(freq)
