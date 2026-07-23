@@ -1,0 +1,18 @@
+# Find the Highest Value in a Dictionary
+
+student = {
+    "Himani": 90,
+    "Rahul": 85,
+    "Anu": 95
+}
+
+highest = -1
+
+for i in student:
+
+    if student[i] > highest:
+
+        highest = student[i]
+        key = i
+
+print("Highest Marks Achiever:", key, "->", highest)
