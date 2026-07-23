@@ -1,0 +1,8 @@
+#  Perform Union of Two Sets
+
+a = {1, 2, 3}
+b = {3, 4, 5}
+
+union = a | b
+
+print("Union:", union)
