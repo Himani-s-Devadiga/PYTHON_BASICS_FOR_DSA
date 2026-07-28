@@ -1,0 +1,10 @@
+## calculate Simple Interest
+def SI(p, t, r):
+    si = (p * t * r) / 100
+    return si
+
+p = int(input("Enter the principal amount: "))
+t = int(input("Enter the time: "))
+r = int(input("Enter the rate: "))
+
+print("The Simple Interest is", SI(p, t, r))
