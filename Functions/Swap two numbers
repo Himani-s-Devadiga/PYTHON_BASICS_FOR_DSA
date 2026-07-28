@@ -1,0 +1,8 @@
+## Swap two numbers
+def swap(a, b):
+    temp = a
+    a = b
+    b = temp
+    print("The values after swapping:", a, b)
+
+swap(5, 6)
