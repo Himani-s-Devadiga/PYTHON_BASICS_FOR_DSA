@@ -1,0 +1,6 @@
+## Find the cube of a number
+def cube(num):
+    return num ** 3
+
+num = int(input("Enter the number: "))
+print("The cube of the number is", cube(num))
