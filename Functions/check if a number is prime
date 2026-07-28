@@ -1,0 +1,22 @@
+## to check if a number is prime or not
+
+def prime(n):
+    if n<=1:
+      return False
+    
+    for i in range(2,int(n**0.5)+1):
+        if n%i==0: 
+           return False
+    return True
+        
+n=int(input("enter a number:"))
+if prime(n):
+  print("It is a prime number:")
+else:
+  print("It is not a prime number:")          
+        
+key findings:
+-> why the for loop is written that way is because to avoid repeating the same numbers in reverse order. It is used because Because 
+if a number has a factor greater than √n, it must also have a factor smaller than √n. So checking up to the square root is enough.
+-> Got to know how to use True and False
+      
