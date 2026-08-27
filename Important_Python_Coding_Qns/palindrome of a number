@@ -1,0 +1,16 @@
+# palindrome of a number 
+
+num=int(input("Enter a number:"))
+
+original = num
+pali=0
+
+while num>0:
+  m=num%10
+  pali=pali*10+m
+  num=num//10
+  
+print("The palindrome number is",pali)
+if original==pali:
+  print("It is a palindrome number")
+else:
