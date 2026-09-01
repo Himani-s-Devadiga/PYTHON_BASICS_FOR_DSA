@@ -59,7 +59,7 @@ PYTHON_BASICS_FOR_DSA
 | Section                      |  Progress |
 | ---------------------------- | --------: |
 | Easy Questions               | 10 / 10 ✅ |
-| Loop Problems                |  4 / 5 🔄 |
+| Loop Problems                |  4 / 10 🔄 |
 | **Total Problems Completed** |    **14** |
 
 ### Current Problem
