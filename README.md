@@ -22,7 +22,6 @@ This repository contains Python programs covering fundamental programming concep
 - Python 3
 - Git
 - GitHub
-- Ubuntu
 
 ---
 
@@ -46,28 +45,54 @@ PYTHON_BASICS_FOR_DSA
 
 ---
 
-## 🚀 Future Updates
+📊 Practice Progress
+Section	Progress
+Easy Questions	10 / 10 ✅
+Loop Problems	4 / 5 completed 🔄
+Total Problems Completed	14
+Current Problem
 
-- Object-Oriented Programming (OOP)
-- File Handling
-- Exception Handling
-- Modules & Packages
-- Serialisation and Deserialisation
-- DSA in Python
+➡️ 15. Reverse a Number
 
----
+🎯 Learning Approach
 
-## Purpose
+Each problem is solved with a focus on understanding the underlying logic rather than simply memorizing the solution.
 
-To strengthen Python programming skills and build a strong foundation for Data Structures, Algorithms, Coding Interviews, and Data Science.
+Attempt → Debug → Understand → Improve → Repeat
 
+The difficulty will gradually progress from:
 
-## 👩‍💻 Author
+Easy → Intermediate → Interview Level → DSA
 
-**Himani S. Devadiga**
+🚀 Future Updates
+Functions
+Tuples
+Dictionaries
+Sets
+Object-Oriented Programming (OOP)
+File Handling
+Exception Handling
+Modules & Packages
+Serialization and Deserialization
+Advanced Problem Solving
+DSA in Python
+Coding Interview Problems
+
+🎯 Purpose
+
+To strengthen Python programming and problem-solving skills and build a strong foundation for:
+
+Data Structures & Algorithms
+Coding Interviews
+Data Science
+Machine Learning
+AI/ML Engineering
+
+👩‍💻 Author
+
+Himani S. Devadiga
 
 Computer Science (Data Science) Student
 
----
-
 ⭐ If you find this repository useful, feel free to star it!
+---
