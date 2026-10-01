@@ -1,0 +1,10 @@
+# Count the no.of vowels
+
+string=input("enter a string")
+count=0
+vowels=['a','e','i','o','u']
+
+for i in string:
+    if i in vowels:
+       count=count+1
+print("The count of the string is",count)
