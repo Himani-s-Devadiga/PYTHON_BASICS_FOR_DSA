@@ -1,0 +1,26 @@
+# List operations(Use built-in methods and slicing)
+
+6. Find the length of [12, 24, 36, 48, 60].
+a=[12, 24, 36, 48, 60]
+length_str=len(a)
+print(length_str)
+
+7. Insert 25 at index 2 in [10, 20, 30, 40].
+a= [10, 20, 30, 40]
+a.insert(2,25)
+print(a)
+
+8. Sort [45, 12, 78, 3, 29] in ascending order.
+a= [45, 12, 78, 3, 29] 
+a.sort()
+print(a)
+
+9. Reverse the list [1, 2, 3, 4, 5] using slicing.
+a=[1, 2, 3, 4, 5]
+reverse=a[::-1]
+print(reverse)
+
+10. Extract [30, 40, 50] from numbers = [10, 20, 30, 40, 50, 60] using slicing.
+numbers = [10, 20, 30, 40, 50, 60] 
+e=numbers[2:5]
+print(e)
