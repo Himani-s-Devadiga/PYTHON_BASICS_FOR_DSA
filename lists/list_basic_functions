@@ -1,0 +1,21 @@
+### Create a list containing five numbers and print the list.
+list=[1,2,3,4,5]
+print(list)
+
+### Given numbers = [10, 20, 30, 40, 50], print the first and last elements.
+numbers = [10, 20, 30, 40, 50]
+print(numbers[0])
+print(numbers[-1])
+
+### Given fruits = ["apple", "banana", "mango", "orange"], print "mango" using indexing.
+fruits = ["apple", "banana", "mango", "orange"]
+print(fruits[2])
+
+### Add the number 60 to the end of numbers = [10, 20, 30, 40, 50].
+numbers = [10, 20, 30, 40, 50]
+numbers.append(60)
+print(numbers)
+
+### Remove "banana" from fruits = ["apple", "banana", "mango"]
+remove_var=fruits.remove('banana')
+print(fruits)
