@@ -1,0 +1,11 @@
+------------------------------------
+Difference between input() and int()
+-------------------------------------
+
+a=int(input("enter the number")
+b=int(input("enter the number")
+print(a+b)
+
+Note:
+Remember: input() always returns a string.
+          int() -> numbers
