@@ -1,0 +1,9 @@
+Write a Python program that:
+1. Takes the user's name as input.
+2. Takes the user's age as input.
+3. Prints both values.
+
+solution:
+name=input("Enter the name")
+age=int(input("enter the age"))
+print(name,age)
